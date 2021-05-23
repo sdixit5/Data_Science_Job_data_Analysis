@@ -13,7 +13,7 @@ For which role in Data Science maximum jobs are posted?<br>
 At which portal maximum Data Science related roles are posted?<br>
 What are the top 5 job posting platforms?<br>
 What is the most common job type?<br>
-What is the Graphical Representation of Data Science Jobs posted throughout the year?<br><br>
+What is the Graphical Representation of Data Science Jobs posted throughout the year?<br>
 
 Applications Used:- Jupyter Notebook<br>
 Programming Language:-  Python<br>
